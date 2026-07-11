@@ -1,150 +1,168 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Achintya+Dwivedi;Cloud+%7C+Full-Stack+%7C+AI%2FML+Enthusiast;Building+Feedify+%2C+NeuroTwin+%26+LibraDesk;AWS+Certified+%7C+Always+Shipping" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2EE6A6&height=180&section=header&text=&fontSize=0" />
-</p>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Anaconda-Dark.svg" width="0" height="0">
 
-<p align="center">
-  <a href="https://linkedin.com/in/dvichaintya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/achintyadwivedi09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=achintyadwivedi09&style=for-the-badge&color=2EE6A6&label=PROFILE+VIEWS">
-</p>
-
----
-
-### 💻 `console.log("about_me")`
-
-```python
-class Achintya:
-    def __init__(self):
-        self.role = "Software Engineer | Cloud Computing"
-        self.education = "B.Tech CSE (Cloud Computing) @ SRMIST"
-        self.status = "Preparing for campus placements 🚀"
-        self.currently_building = ["Feedify", "KeyFill", "RankedIn 2.0"]
-        self.fun_fact = "AWS Certified & counting ☁️"
-
-    def say_hi(self):
-        return "Let's build something impactful!"
-
-me = Achintya()
-print(me.say_hi())
+```
+╔══════════════════════════════════════════════════════════════╗
+║  achintya@srmist:~$ whoami                                     ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=800&height=70&lines=%3E+ACHINTYA_DWIVEDI;%3E+booting+cloud_engineer.exe;%3E+status%3A+shipping;%3E+Jai+Shree+Ram_" alt="Typing SVG" />
 
-### 🛠️ Tech Arsenal
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-</p>
+<br>
 
----
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="3">
+</div>
 
-### 🚀 Featured Builds
+```ansi
+[0;32m┌─[ SYSTEM INFO ]────────────────────────────────────────────┐[0m
+[0;32m│[0m  OS            [0;36mB.Tech CSE — Cloud Computing @ SRMIST[0m
+[0;32m│[0m  Uptime        [0;36mPre-final year · Class of 2027[0m
+[0;32m│[0m  Shell         [0;36mPython · C++ · TypeScript · SQL[0m
+[0;32m│[0m  DE            [0;36mReact · Next.js · Flask · Spring Boot[0m
+[0;32m│[0m  Terminal      [0;36mAWS Certified (x4) · SAP GenAI Certified[0m
+[0;32m│[0m  Packages      [0;36m29 repos · shipping in silence[0m
+[0;32m│[0m  Current Job   [0;36m→ campus placements · DSA grind mode[0m
+[0;32m└──────────────────────────────────────────────────────────────┘[0m
+```
 
-<table align="center">
+<br>
+
+<div align="center">
+
+### `>_` ACTIVE PROCESSES
+
+</div>
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🍽️ [Feedify](https://github.com/achintyadwivedi09)**
-AI-driven food redistribution system for India — predictive NGO demand modeling, route optimization & real-time surplus tracking.
-`PySpark` `PostgreSQL` `GeoJSON` `Google Maps API`
+```diff
++ process: Feedify.exe
++ status:  RUNNING
++ pid:     0x01
+```
+**AI-driven food redistribution for India.**
+Predictive NGO demand modeling · route optimization · real-time surplus tracking.
+
+`PySpark` `PostgreSQL` `GeoJSON` `Maps API`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🧠 [NeuroTwin](https://github.com/achintyadwivedi09)**
-Full-stack student productivity & wellness platform with real-time analytics.
-`Next.js` `Supabase` `Recharts`
+```diff
++ process: KeyFill.exe
++ status:  RUNNING
++ pid:     0x02
+```
+**Fully local, encrypted password autofill.**
+AES-256-GCM + Argon2, zero cloud, zero clipboard.
+
+`Python` `SQLite` `pyautogui`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📚 [LibraDesk](https://github.com/achintyadwivedi09)**
-Full-stack library management system with automated fine calculation & triggers.
-`Python` `MySQL` `TypeScript`
+```diff
++ process: NeuroTwin.exe
++ status:  RUNNING
++ pid:     0x03
+```
+**Student productivity & wellness platform.**
+Real-time analytics dashboard for habit + focus tracking.
+
+`Next.js` `Supabase` `Recharts`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⚡ Early Disease Detection (PySpark + ML)**
-Large-scale predictive healthcare pipeline using Random Forest, SVM, LogReg & XGBoost.
-`PySpark` `Scikit-learn` `TensorFlow`
+```diff
++ process: RankedIn_2.0.exe
++ status:  RUNNING
++ pid:     0x04
+```
+**AI resume ranking & job-matching engine.**
+7-stage parsing pipeline, OWASP-mapped security.
+
+`React 19` `Express` `Supabase`
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### 📜 Certifications
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_Certified_Developer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/SAP_Generative_AI_Developer-0FAAFF?style=flat-square&logo=sap&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle_Cloud_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/NPTEL_ML_%26_Cloud-blueviolet?style=flat-square">
-</p>
+### `>_` LOADED_MODULES.dll
 
----
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,flask,spring,tailwind,postgres,mysql,git,githubactions,aws,supabase,vscode&theme=dark" />
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=achintyadwivedi09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EE6A6&icon_color=2EE6A6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achintyadwivedi09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EE6A6" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achintyadwivedi09&theme=radical&hide_border=true&background=0D1117&ring=2EE6A6&fire=2EE6A6" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achintyadwivedi09&theme=react-dark&hide_border=true&bg_color=0D1117&color=2EE6A6&line=2EE6A6&point=ffffff" />
-</p>
+### `>_` CERTIFICATION_KEYS.pem
 
----
+<img src="https://img.shields.io/badge/⚡_AWS_SOLUTIONS_ARCHITECT-black?style=for-the-badge&labelColor=39FF14&color=0D1117">
+<img src="https://img.shields.io/badge/⚡_AWS_DEVELOPER-black?style=for-the-badge&labelColor=39FF14&color=0D1117">
+<br>
+<img src="https://img.shields.io/badge/⚡_AWS_AI_PRACTITIONER-black?style=for-the-badge&labelColor=39FF14&color=0D1117">
+<img src="https://img.shields.io/badge/⚡_AWS_CLOUD_PRACTITIONER-black?style=for-the-badge&labelColor=39FF14&color=0D1117">
+<br>
+<img src="https://img.shields.io/badge/⚡_SAP_GENERATIVE_AI-black?style=for-the-badge&labelColor=00D9FF&color=0D1117">
+<img src="https://img.shields.io/badge/⚡_ORACLE_CLOUD-black?style=for-the-badge&labelColor=FF6B6B&color=0D1117">
 
-### 🐍 Contribution Snake
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/achintyadwivedi09/achintyadwivedi09/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<br>
 
-> ⚙️ To activate the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to a repo named exactly `achintyadwivedi09` — it auto-generates the SVG above on every push.
+<div align="center">
 
----
+### `>_` git log --stats
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6A6,100:0F2027&height=120&section=footer" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=achintyadwivedi09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achintyadwivedi09&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" height="165">
 
-<p align="center">
-  <i>🕉️ Jai Shree Ram — building in silence, shipping with purpose.</i>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=achintyadwivedi09&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=achintyadwivedi09&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff">
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `>_` ./contribution_snake.sh
+
+<img src="https://raw.githubusercontent.com/achintyadwivedi09/achintyadwivedi09/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<sub>⚙️ activates once <a href="https://github.com/Platane/snk">Platane/snk</a> Action is added to this repo</sub>
+
+</div>
+
+<br>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  achintya@srmist:~$ cat philosophy.txt                         ║
+║                                                                  ║
+║  "Build in silence. Let the shipped product make the noise."   ║
+║                                                                  ║
+║  🕉️  Jai Shree Ram                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=achintyadwivedi09&label=CONNECTIONS+ESTABLISHED&color=39FF14&style=for-the-badge">
+</div>
