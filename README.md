@@ -1,3 +1,5 @@
-# Hi there, I'm Achintya Dwivedi 👋
+<h1 align="center">Hi 👋, I'm Achintya Dwivedi</h1>
 
-Welcome to my GitHub profile!
+<h3 align="center">
+Software Engineer • Cloud Computing • Full-Stack Developer • AI/ML Enthusiast
+</h3>
