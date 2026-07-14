@@ -90,12 +90,6 @@
 
 ---
 
-## 🎯 2026 Goals
-
-* ✅ Solve 500+ DSA Problems
-* ✅ Build Production-Level Projects
-* ✅ Crack SDE Internship
-* ✅ Earn More Cloud Certifications
 
 ---
 
@@ -103,6 +97,7 @@
 
 ### Thanks for visiting!
 
-*"Consistency beats intensity."*
+*"Consistency beats intensity.
+Jai Shree Ram!"*
 
 </div>
