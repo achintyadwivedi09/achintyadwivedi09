@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Achintya 👋
+# Hey, I'm Achintya Dwivedi!👋
 
-### Computer Science Student • Software Engineering Enthusiast
+### Computer Science Student • Software Development Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Building+Projects;Learning+DSA;Cloud+Computing;Backend+Development;Always+Learning"/>
 
@@ -15,9 +15,9 @@
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE (Cloud Computing)
-* 💻 Learning **DSA, Backend & System Design**
+* 💻 Learning **DSA, Backend & Cloud**
 * ☁️ AWS & Cloud Computing Enthusiast
-* 🌱 Currently building projects with **React, Next.js & FastAPI**
+* 🌱 Currently building projects with **React, Next.js, Python & FastAPI**
 * 🎯 Goal: Software Development Engineer
 
 ---
@@ -58,6 +58,11 @@
 🔹 **RankedIn** — AI Resume Ranking Platform
 
 🔹 **Oral Cancer Detection** — PySpark + Machine Learning
+
+🔹 **NeuroTwin** — Python + TypeScript 
+
+
+
 
 ---
 
